@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+h1 {
+ font-size: 1px;
+}
+h2 {
+ font-family: fantasy;
+ text-decoration-color: yellow;
+ font-size: 100px;
+ font-variant: small-caps;
+}
+#schoolimage {
+  width: 500px;
+ height: 500px;
+}
+#nam {
+    margin-bottom: 100px;
+}
+h3 {
+ font-family: fantasy;
+ text-decoration-color: yellow;
+ font-size: 100px;
+ font-variant: small-caps;
+}
+ul {
+    background-color: yellow; 
+    position:fixed;
+    top:0;
+    z-index:99999;
+}
+.campus {
+    width: 20%;
+}
+p {
+    font-size: 25px;
+}
